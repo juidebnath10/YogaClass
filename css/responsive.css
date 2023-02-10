@@ -1,0 +1,556 @@
+@media (min-width: 279px) and ( max-width: 319px){
+/* css code start */
+
+.header .navbar-expand-lg .navbar-nav .nav-item .active {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 0px
+}
+
+.header .banner {
+    padding: 35px 0px;
+}
+
+.header .banner .inner-banner{
+    width: 100%;
+    padding: 10px 0px 0px;
+}
+
+.header .banner .inner-banner h1{
+    font-size: 20px;
+    line-height: 1.3em;
+}
+
+.header .banner .inner-banner p{
+    font-size: 7px;
+    line-height: 1.7em; 
+    margin: 10px 0px 8px;  
+}
+
+.header .banner .double-button .btn-primary {
+    padding: 10px 12px;
+    font-size: 8px;
+}
+
+.header .banner .double-button .btn-info{
+    padding: 10px 12px;
+    font-size: 8px;
+}
+
+.title h1{
+    font-size: 22px;
+}
+
+.feature .title{
+    padding: 20px 0px;
+}
+
+.feature .inner-feature{
+    padding: 20px 40px;
+}
+
+.feature .inner-feature p{
+    font-size: 12px;
+}
+
+.about-long{
+    padding: 40px 0px;
+}
+
+.about-long p{
+    font-size: 15px;
+}
+
+.about-long ul li{
+    font-size: 15px;
+}
+.about-sort{
+    padding: 40px 0px;
+}
+
+.about-sort .title {
+    margin: 0px;
+}
+
+.about-sort .title p{
+    font-size: 15px;
+}
+
+.testimonial{
+    padding: 40px 0px;
+}
+
+.testimonial .title {
+    padding: 0px 0px 20px;
+}
+
+.testimonial .owl-carousel .item h4{
+    font-size: 12px;
+    margin: 0px 0px 10px;
+}
+
+.testimonial .owl-carousel .item .client-img{
+    width: 30px;
+    height: 30px;
+    margin: 18px 0px 0px;
+}
+
+.testimonial .owl-carousel .item .client-img{
+    font-size: 8px;
+}
+
+.testimonial .owl-carousel .item .clients-info{
+    padding: 0px 0px 15px;
+}
+
+.testimonial .owl-carousel .item .clients-info h4{
+    font-size: 12px;
+}
+
+.testimonial .owl-carousel .item .clients-info p{
+    font-size: 10px;
+}
+
+.eye-catcher{
+    padding: 25px 0px;
+}
+
+.eye-catcher h1{
+    font-size: 18px;
+    margin: 0px 0px 15px;
+}
+
+.eye-catcher .double-button .btn-info{
+    padding: 10px 12px;
+    font-size: 9px;
+}
+
+.eye-catcher .double-button .btn-primary{
+    padding: 10px 12px;
+    font-size: 9px;
+}    
+
+.price{
+    padding: 0px 0px 40px;
+}
+
+.price .title{
+    padding: 40px 0px;
+}
+
+.price .price-box{
+    margin: 0px 0px 20px;
+}
+
+.price .price-box .price-header{
+    padding: 20px 0px;
+}
+
+.contact{
+    padding: 0px 0px 40px;
+}
+
+.contact .title{
+    padding: 40px 0px;
+}
+
+.contact .main-form{
+    padding: 40px 30px 30px;
+    margin: 40px 0px -10px;
+}
+
+.contact .main-form .form-control{
+    font-size: 10px;
+}
+
+.contact .main-form .btn-primary {
+    padding: 8px 10px;
+    font-size: 8px;
+}
+
+.footer{
+    padding: 20px 0px;
+}
+
+.footer ul{
+    padding: 20px 0px 0px;
+}
+
+.footer ul li{
+    margin: 10px;
+}
+
+.footer p{
+    font-size: 10px;
+}
+
+/* css code end */
+}
+
+@media (min-width: 320px) and ( max-width: 480px){
+/* css code start */
+.header .navbar-expand-lg .navbar-nav .nav-item .active {
+    background-size: auto;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 0px
+}
+
+.collapse:not(.show) {
+    display: none;
+}
+
+.header .banner{
+    padding: 100px 0px 30px;
+}
+
+.banner .title-banner {
+    width: 100%;
+    padding: 98px 0px 65px;
+    margin: 0px -33px;
+    text-align: center;
+}
+
+.banner .title-banner h1{
+    font-size: 48px;
+    line-height: 58px;
+}
+
+.banner .title-banner p{
+    font-size: 12px;
+    line-height: 22px;
+}
+
+choose{
+    width: 100%;
+    padding: 98px 0px 65px;
+}
+
+.choose .choose-title h2 h1{
+    font-size: 48px;
+    line-height: 58px;
+}
+
+.choose .choose-title h2 p{
+    font-size: 12px;
+    line-height: 22px;
+}
+/* css code end */   
+}
+
+@media (min-width: 481px) and ( max-width: 767px){
+/* css code start */
+
+.header .navbar-expand-lg .navbar-nav .nav-item .active {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 0px
+}
+
+.header .banner {
+    padding: 46px 0px;
+}
+
+.header .banner .inner-banner{
+    width: 100%;
+    padding: 10px 0px 0px;
+}
+
+.header .banner .inner-banner h1{
+    font-size: 34px;
+    line-height: 1.3em;
+}
+
+.header .banner .inner-banner p{
+    font-size: 14px;
+    line-height: 1.7em; 
+    margin: 15px 0px 20px;  
+}
+
+.header .banner .double-button .btn-primary {
+    padding: 15px 20px;
+    font-size: 12px;
+}
+
+.header .banner .double-button .btn-info{
+    padding: 15px 20px;
+    font-size: 12px;
+}
+
+.title h1{
+    font-size: 34px;
+}
+
+.feature .title{
+    padding: 20px 0px;
+}
+
+.feature .inner-feature{
+    padding: 20px 40px;
+}
+
+.about-long{
+    padding: 40px 0px;
+}
+
+.about-sort{
+    padding: 40px 0px;
+}
+
+.about-sort .title {
+    margin: 0px;
+}
+
+.testimonial{
+    padding: 40px 0px;
+}
+
+.testimonial .title {
+    padding: 0px 0px 20px;
+}
+
+.testimonial .owl-carousel .item h4{
+    font-size: 18px;
+    margin: 0px 0px 10px;
+}
+
+.testimonial .owl-carousel .item .client-img{
+    width: 40px;
+    height: 40px;
+    margin: 18px 0px 0px;
+}
+
+.testimonial .owl-carousel .item .client-img{
+    font-size: 14px;
+}
+
+.testimonial .owl-carousel .item .clients-info{
+    padding: 0px 0px 10px;
+}
+
+.eye-catcher{
+    padding: 25px 0px;
+}
+
+.eye-catcher h1{
+    font-size: 20px;
+    margin: 0px 0px 15px;
+}
+
+.eye-catcher .double-button .btn-info{
+    padding: 15px 20px;
+    font-size: 14px;
+}
+
+.eye-catcher .double-button .btn-primary{
+    padding: 15px 20px;
+    font-size: 14px;
+}    
+
+.price{
+    padding: 0px 0px 40px;
+}
+
+.price .title{
+    padding: 40px 0px;
+}
+
+.price .price-box{
+    margin: 0px 0px 20px;
+}
+
+.price .price-box .price-header{
+    padding: 20px 0px;
+}
+
+.contact{
+    padding: 0px 0px 40px;
+}
+
+.contact .title{
+    padding: 40px 0px;
+}
+
+.contact .main-form{
+    padding: 40px 30px 30px;
+    margin: 40px 0px -10px;
+}
+
+.contact .main-form .form-control{
+    font-size: 10px;
+}
+
+.contact .main-form .btn-primary {
+    padding: 8px 10px;
+    font-size: 14px;
+}
+
+.footer{
+    padding: 20px 0px;
+}
+
+.footer ul{
+    padding: 20px 0px 0px;
+}
+
+.footer ul li{
+    margin: 10px;
+}
+
+.footer p{
+    font-size: 14px;
+}
+
+/* css code end */    
+}
+
+@media (min-width: 768px) and ( max-width: 1024px){
+/* css code start */
+
+.header .navbar-expand-lg .navbar-nav .nav-item .active {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 0px
+}
+
+.header .banner {
+    padding: 60px 0px;
+}
+
+.header .banner .inner-banner{
+    width: 100%;
+    padding: 30px 0px 0px;
+}
+
+.header .banner .inner-banner h1{
+    font-size: 36px;
+    line-height: 1.3em;
+}
+
+.header .banner .inner-banner p{
+    font-size: 16px;
+    line-height: 1.7em; 
+    margin: 15px 0px 20px;  
+}
+
+.header .banner .double-button .btn-primary {
+    padding: 15px 20px;
+    font-size: 12px;
+}
+
+.header .banner .double-button .btn-info{
+    padding: 15px 20px;
+    font-size: 16px;
+}
+
+.title h1{
+    font-size: 36px;
+}
+
+.feature .title{
+    padding: 20px 0px;
+}
+
+.feature .inner-feature{
+    padding: 20px 40px;
+}
+
+.about-long{
+    padding: 40px 0px;
+}
+
+.about-sort{
+    padding: 40px 0px;
+}
+
+.about-sort .title {
+    margin: 0px;
+}
+
+.testimonial{
+    padding: 40px 0px;
+}
+
+.testimonial .title {
+    padding: 0px 0px 20px;
+}
+
+.testimonial .owl-carousel .item h4{
+    font-size: 16px;
+    margin: 0px 0px 10px;
+}
+
+.testimonial .owl-carousel .item .client-img{
+    width: 40px;
+    height: 40px;
+    margin: 18px 0px 0px;
+}
+
+.testimonial .owl-carousel .item .client-img{
+    font-size: 14px;
+}
+
+.testimonial .owl-carousel .item .clients-info{
+    padding: 0px 0px 10px;
+}
+
+.eye-catcher{
+    padding: 25px 0px;
+}
+
+.eye-catcher h1{
+    font-size: 30px;
+    margin: 0px 0px 15px;
+}
+
+.eye-catcher .double-button .btn-info{
+    padding: 15px 20px;
+    font-size: 14px;
+}
+
+.eye-catcher .double-button .btn-primary{
+    padding: 15px 20px;
+    font-size: 14px;
+}    
+
+.price{
+    padding: 0px 0px 40px;
+}
+
+.price .title{
+    padding: 40px 0px;
+}
+
+.price .price-box{
+    margin: 0px 0px 20px;
+}
+
+.price .price-box .price-header{
+    padding: 20px 0px;
+}
+
+.contact{
+    padding: 0px 0px 40px;
+}
+
+.contact .title{
+    padding: 40px 0px;
+}
+
+.footer ul{
+    padding: 40px 0px 0px;
+}
+
+
+/* css code end */    
+}
